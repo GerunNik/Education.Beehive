@@ -59,17 +59,6 @@ namespace Beehive
 
             NectarInFlowers.Text = string.Format("{0:f3}", nectar);
             PassedFrames.Text = passedFrames.ToString();
-
-            double mSeconds = frameDuration.TotalMilliseconds;
-
-            if (mSeconds != 0.0)
-            {
-                FrameRate.Text = string.Format("{0:f0} ({1:f1}ms)", 1000 / mSeconds, mSeconds);
-            }
-            else
-            {
-                FrameRate.Text = "N/A";
-            }
         }
 
         public void ExecuteFramce(object sender, EventArgs e)
