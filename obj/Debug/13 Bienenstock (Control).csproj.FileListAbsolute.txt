@@ -1,0 +1,28 @@
+C:\Dokumente und Einstellungen\Administrator\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\13 Bienenstock (Control)\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Administrator\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\13 Bienenstock (Control)\obj\Debug\Bienenstock.BienenControl.resources
+C:\Dokumente und Einstellungen\Administrator\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\13 Bienenstock (Control)\obj\Debug\Bienenstock.Form1.resources
+C:\Dokumente und Einstellungen\Administrator\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\13 Bienenstock (Control)\obj\Debug\_13_Bienenstock__Control_.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Administrator\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\13 Bienenstock (Control)\obj\Debug\13 Bienenstock (Control).csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\13 Bienenstock (Control)\13 Bienenstock (Control)\bin\Debug\13 Bienenstock (Control).exe
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\13 Bienenstock (Control)\13 Bienenstock (Control)\bin\Debug\13 Bienenstock (Control).pdb
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Bienenstock.BienenControl.resources
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Bienenstock.Form1.resources
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Bienenstock.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\13 Bienenstock (Control).csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\13 Bienenstock (Control).exe
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\13 Bienenstock (Control).pdb
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Bienenstock.FeldFormular.resources
+C:\Dokumente und Einstellungen\Administrator\Eigene Dateien\Visual Studio 2008\Projects\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Bienenstock.StockFormular.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\bin\Debug\13 Bienenstock (Control).exe
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\bin\Debug\13 Bienenstock (Control).pdb
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\13 Bienenstock (Control).csprojAssemblyReference.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Bienenstock.BienenControl.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Bienenstock.FeldFormular.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Bienenstock.Form1.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Bienenstock.Properties.Resources.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Bienenstock.StockFormular.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\13 Bienenstock (Control).csproj.GenerateResource.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\13 Bienenstock (Control).csproj.CoreCompileInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\13 Bienenstock (Control).exe
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\13 Bienenstock (Control).pdb

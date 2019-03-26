@@ -1,0 +1,12 @@
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\bin\Debug\13 Bienenstock (Control).exe
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\bin\Debug\13 Bienenstock (Control).pdb
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Beehive.BeeControl.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Beehive.FieldForm.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Beehive.Form1.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Bienenstock.Properties.Resources.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\Beehive.HiveForm.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\BeeHiveApp.csproj.GenerateResource.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\BeeHiveApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\13 Bienenstock (Control).exe
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\13 Bienenstock (Control).pdb
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\CSharpKopfBisFuss\13 Bienenstock (Control)\13 Bienenstock (Control)\obj\Debug\BeeHiveApp.csprojAssemblyReference.cache
